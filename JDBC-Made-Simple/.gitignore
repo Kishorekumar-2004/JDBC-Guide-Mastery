@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Java build artifacts
+*.class
+target/
+build/
+bin/
+out/
+
+# IDE settings
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Environment variables & local secrets
+.env
+db_secret.properties
+
+# OS files
+.DS_Store
+Thumbs.db
